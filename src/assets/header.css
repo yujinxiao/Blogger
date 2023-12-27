@@ -48,25 +48,7 @@ nav .menu-item{
     align-items: center;
 }
 
-
-
 nav .menu-item.active,
 nav .menu-item:hover{
     background-color: #444;
-    /* border-bottom-color: #ff5588; */
-}
-
-
-
-/* .box1{
-    width: 100%;
-    height: 100%;
-} */
-
-.img{
-    display: flex;
-    height:3%;
-    width: 3%;
-    /* display:-webkit-inline-box; */
-    float:right;
 }
